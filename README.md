@@ -44,7 +44,7 @@ After we created our Windows Server VM let proceed to creating our Client VM. To
 then enter username and password and attach it to the same region as the Windows Server and Virtual Network and then click create. 
 </p>
 <p>
-<img src="https://imgur.com/wLaOfbF" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ca1fC5q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
@@ -54,7 +54,7 @@ Let's change our DC-1 VM's Private IP Address from dynamic to static, and to do 
 and then, Click ipconfig1, after that you will see a radio botton in the right corner on dynamic and static. check the static and that's it.
 </p>
 <p>
-<img src="https://imgur.com/bpH5Aga" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z1ydD3H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
@@ -68,7 +68,7 @@ and to do that go to Client-1 vm and under networking go to network settings, th
 and then, in the left side option bar choose DNS Settings, then click Custom, then paste the private ip address of your Domain Controller.
 </p>
 <p>
-<img src="https://imgur.com/J4G8pde" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fDaDfB7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />

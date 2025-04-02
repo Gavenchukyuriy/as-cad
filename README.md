@@ -34,7 +34,7 @@ In This Lab First is we will make a Windows Server Virtual Machine in Microsoft 
 Before that Create a Resourse Group named Active-Directory-Lab then we will also Create a Virtual Network named Active-Directory-VNet after Creating this two components proceed in creating our Virtual Machine Server.
 </p>
 <p>
-<img src="https://imgur.com/JgplZSq" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[Imgur](https://imgur.com/JgplZSq)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />

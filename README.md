@@ -44,7 +44,7 @@ After we created our Windows Server VM let proceed to creating our Client VM. To
 then enter username and password and attach it to the same region as the Windows Server and Virtual Network and then click create. 
 </p>
 <p>
-<img src="https://i.imgur.com/LT7Ipwm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/LT7Ipwm.png](https://imgur.com/JgplZSq)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
